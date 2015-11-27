@@ -12,4 +12,6 @@
 
   Use the atom to edit it.
 
-  Use the mou to edit it,and change the title's size by using markdown language. 
+  Use the mou to edit it,and change the title's size by using markdown language.
+
+  Use the common-line tool to push the update of this file.
