@@ -7,3 +7,5 @@
   Then,I use the desktop client to clone the file and edit it in the local.
 
   The second time.
+
+  Use the vim to edit this file.
